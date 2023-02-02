@@ -1,0 +1,17 @@
+{
+  "name": "node-mongodb",
+  "version": "1.0.0",
+  "description": "node and mongodb basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Aravinth Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^5.0.0"
+  }
+}
